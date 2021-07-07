@@ -1,0 +1,26 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Number Base Converter/task/out/test/classes/
+/Topics/BigDecimal/Average/out/
+/Topics/BigDecimal/Average/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Multiplication/out/
+/Topics/BigDecimal/Multiplication/out/production/classes/
+/Topics/BigDecimal/Rounding with a given precision/out/
+/Topics/BigDecimal/Rounding with a given precision/out/production/classes/
+/Topics/BigDecimal/Theory/out/
+/Topics/BigDecimal/Theory/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/Exabytes/out/
+/Topics/BigInteger/Exabytes/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
